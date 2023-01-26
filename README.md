@@ -42,6 +42,14 @@
 
 https://user-images.githubusercontent.com/80181145/214968993-a59f30ae-b344-4f85-a4b2-206930b52713.mp4
 
-Product
 
+#### What issues have you had in working on your projects?  You may list as many as you can think of.  Please explain how you overcame those problems or fixed them. 
+
+> The circuit design for regulating the motor's direction of rotation was one of our project's most difficult tasks. We needed help dealing with many wires, resistors, and transistors, as well as with the coding. We used Tinkercad, a digital circuit design programme, to experiment with various circuit topologies to solve this issue. We also read a lot from other places to better grasp the code and how to manage the motor's rotation direction. We eventually succeeded in designing a real-world circuit and writing the code to regulate the motor's rotational direction.
+
+#### What is still remaining to be done in your project if you had more time to work on it?  How would you improve your project?  Is there a possibility for making it even more functional?
+> We would seek to increase the functionality of our concept if we had more time to work on it by including better tyres and collision detection sensors. Better tyres would improve the vehicle's movement and performance, making it more efficient and dependable. Adding collision detection sensors would also allow the automobile to recognize impediments in its path and stop before a collision happens. Another change is to design the automobile using a 3D printer, allowing us to construct more intricate and exact elements, making the car seem more polished and sleek. We aim to improve the car's functioning and look over time, making it more practical and user-friendly.
+
+#### What was fun and/or frustrating about your project?  How would you approach your project differently next time?
+> Making an RC vehicle using Arduino and IR sensors was fun and challenging. Dealing with the code was one of the more annoying elements, as it did not continuously operate as planned. We frequently felt disoriented and unneeded to learn to solve the problems we were experiencing. In retrospect, we preferred more robust engines since they would have allowed the automobile to travel more smoothly and efficiently. Furthermore, we would have tackled the project differently if we had used a joystick controller instead of an outdated TV remote-like device. It would have given the driver additional accuracy and control over the vehicle's motions. Despite the difficulties, the moment the motors finally started operating was a big thrill for us, and it was the best time we had while building the RC vehicle. The joy of seeing the automobile move on its own after all of our hard work and effort was highly remarkable.
 
