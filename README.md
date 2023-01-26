@@ -38,5 +38,6 @@
 #### `Step Six:` Connecting the gears and the motors to make the car move as designed
 
 * This step involves putting the gears and motors together, making sure that they are properly connected and aligned. This step also includes connecting the battery to the arduino board and testing the car's movement and functions.
+### Final Product
 
-
+https://user-images.githubusercontent.com/80181145/214968830-672543ca-ca69-4d7b-a030-4ab17ef89b8d.mp4
