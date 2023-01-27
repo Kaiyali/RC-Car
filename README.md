@@ -17,11 +17,12 @@
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Screenshot_20230126_051636" src="https://user-images.githubusercontent.com/80181145/214965704-fb628e94-8ea6-4c09-b418-290c1cf3af63.png">|<img width="1604" alt="Screenshot_20230126_052828" src="https://user-images.githubusercontent.com/80181145/214965706-e3c88f4b-25ce-47a4-b269-d93265d96466.png">|<img width="1604" alt="Screenshot_20230126_052508" src="https://user-images.githubusercontent.com/80181145/214965707-6ae47b53-f623-4fd3-8800-4463230f0133.png">
+|<img width="1604" alt="Screenshot_20230126_051636" src="https://user-images.githubusercontent.com/80181145/214965704-fb628e94-8ea6-4c09-b418-290c1cf3af63.png">|<img width="1604" alt="Screenshot_20230126_052828" src="https://user-images.githubusercontent.com/80181145/214965706-e3c88f4b-25ce-47a4-b269-d93265d96466.png">|<img width="1604" alt="Screenshot_20230126_052508" src="https://user-images.githubusercontent.com/80181145/214965707-6ae47b53-f623-4fd3-8800-4463230f0133.png">|<img width="1604" alt="Screenshot_20230126_052508" src="https://user-images.githubusercontent.com/80181145/214965707-6ae47b53-f623-4fd3-8800-4463230f0133.png">
+|<img width="1604" alt="Screenshot_20230126_053303" src="https://user-images.githubusercontent.com/80181145/214990776-6c8413be-0307-4bf7-ad8e-2d16a7cbf15b.png">|<img width="1604" alt="Screenshot_20230126_053414" src="https://user-images.githubusercontent.com/80181145/214990778-db6acbb0-d077-4611-b706-259b248e2276.png">|<img width="1604" alt="Screenshot_20230126_052030" src="https://user-images.githubusercontent.com/80181145/214991755-54d31ce4-80b7-4dc1-9702-6bf39b035a09.png">|
 
 #### `Step Two:` Lazering our designs on a laser cutter
 
-* Once the design is complete, it can be exported from Tinkercad and sent to a laser cutter to be cut out of a material such as acrylic or wood.
+from Tinkercad and sent to a laser cutter to be cut out of a material such as acrylic or wood.
 
 #### `Step Three:` Make the motor work
 
@@ -56,3 +57,4 @@ https://user-images.githubusercontent.com/80181145/214968993-a59f30ae-b344-4f85-
 ### Proposal
 
 > We suggest building an RC vehicle with motors and infrared sensors. The project will entail designing and constructing a miniature toy automobile utilizing an Arduino board and different electronic components. To accomplish this project, we will need to have a better grasp of how motors and IR sensors function and improve our coding abilities to manage the car's motions effectively. Tinkercad 3D will be used to produce a virtual automobile model, and the design will be laser-cut using a laser cutter. The project will take some time and work, but we are convinced that the end result will be a fun and practical addition to the class. We'll need an Arduino board, a motor, IR sensors, gears, wiring, and a laser cutter. Before we begin the project, we will need to plan our time and ensure we have everything we need. We want to work on this project for the semester and present it as a group at the conclusion.
+
