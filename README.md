@@ -65,14 +65,17 @@ https://user-images.githubusercontent.com/80181145/214968993-a59f30ae-b344-4f85-
 |Sun  | Mon | Tue | Wed |Thu|Fri| Sat|
 |-----|:---:|:----:|:----:|:----:|:----:|----:|
 |1|2|3|4|5|6|7|
-|8|9|10|11:wrench:|12|13|14|
-|15|16|17|18|19|20|21|
-|22|23|24|25|26|27|28|
-|29|30|31|
+|8|9:book:|10:book:|11:art:|12:art:|13:art:|14:art:|
+|15:art:|16:round_pushpin:|17:round_pushpin:|18:book:|19:wrench:|20:wrench:|21:wrench:|
+|22:wrench:|23:book:|24:book:|25:wrench:|26:wrench:|27:wrench:|28:tada:|
+|29:movie_camera:|30:movie_camera:|31|
 </div>
 :book: Taking and researching
-:wrench: Build motor
+:wrench: assembling the car
+:round_pushpin: Lazar cutting
 :art:  Design
 :coffee: Coding
+:tada: The car is done
+:movie_camera: Documentation
 
 
