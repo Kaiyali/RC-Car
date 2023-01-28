@@ -32,8 +32,6 @@ from Tinkercad and sent to a laser cutter to be cut out of a material such as ac
 
 * The stepper motor is a special kind of motor that can be controlled with high precision. In this step, you will connect the stepper motor to the arduino board and write the code to control it. This will involve configuring the arduino board's pins and using the appropriate libraries to control the stepper motor.
 
-https://user-images.githubusercontent.com/80181145/215279116-d024245b-60b0-4252-ba0d-10e0bc4a363b.mp4
-
 #### `Step Five:` Placing everything together
 
 * Once the motors and sensors are working, you will place them into the car's design, connecting gears and motors to make the car move as designed. This step also includes connecting the battery to the arduino board and testing the car's movement and functions.
