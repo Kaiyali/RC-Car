@@ -5,7 +5,7 @@
 > The objective of this project is to create a remote control car using an Arduino and IR sensors. The Arduino, a microcontroller board, will be used as the brain of the car to control its motors and receive input from the IR sensors. The IR sensors will be used to detect obstacles or track a specific IR remote control signal, which the Arduino will then process to control the car's movement. To build the RC car, the sensors will be connected to the Arduino, code will be written to control the car's motors and interpret sensor input, and power will be supplied by a battery. With the right programming, the Arduino will be able to control the speed, direction and any other function of the RC car.
 
 ## Brainstorming and Ideation
-> When we started we had in mind to build a vehicle, at first we wanted to build a drone, we thought about and looked at the materials we have in class, we realized it was impossible because we need light weight components and very small and powerful motors. Also we need strong and lightweight propellers. That whole idea was just impossible. And we finally got it, an RC car, the moment we had that idea we hopped on tinkercad and started designing and drawing our ideas. 
+> When we started, we had in mind to build a vehicle. At first, we wanted to create a drone; we thought about and looked at the materials we had in class, and we realized it was impossible because we needed lightweight components and tiny and powerful motors. Also, we need solid and lightweight propellers. That whole idea was just unbelievable. And we finally got an RC car; the moment we had that idea, we hopped on TinkerCad and started designing and drawing our ideas.
  ***
 
  ## Process:
