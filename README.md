@@ -28,9 +28,11 @@ from Tinkercad and sent to a laser cutter to be cut out of a material such as ac
 
 * In this step, you will connect the motors to the arduino board and write the code to control the motors' speed and direction. This will involve configuring the arduino board's pins and using the appropriate libraries to control the motors.
 
-#### `Step Four:` Make the stepper motor to work
+#### `Step Four:` Make the stepper motor work
 
 * The stepper motor is a special kind of motor that can be controlled with high precision. In this step, you will connect the stepper motor to the arduino board and write the code to control it. This will involve configuring the arduino board's pins and using the appropriate libraries to control the stepper motor.
+
+https://user-images.githubusercontent.com/80181145/215279116-d024245b-60b0-4252-ba0d-10e0bc4a363b.mp4
 
 #### `Step Five:` Placing everything together
 
@@ -77,5 +79,11 @@ https://user-images.githubusercontent.com/80181145/214968993-a59f30ae-b344-4f85-
 :coffee: Coding
 :tada: The car is done
 :movie_camera: Documentation
+
+
+
+
+
+
 
 
