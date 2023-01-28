@@ -70,7 +70,7 @@ https://user-images.githubusercontent.com/80181145/214968993-a59f30ae-b344-4f85-
 |22:wrench:|23:book:|24:book:|25:wrench:|26:wrench:|27:wrench:|28:tada:|
 |29:movie_camera:|30:movie_camera:|31|
 </div>
-:book: Taking and researching
+:book: Talking and researching
 :wrench: assembling the car
 :round_pushpin: Lazar cutting
 :art:  Design
