@@ -57,16 +57,15 @@ https://user-images.githubusercontent.com/80181145/214968993-a59f30ae-b344-4f85-
 ### Proposal
 
 > We suggest building an RC vehicle with motors and infrared sensors. The project will entail designing and constructing a miniature toy automobile utilizing an Arduino board and different electronic components. To accomplish this project, we will need to have a better grasp of how motors and IR sensors function and improve our coding abilities to manage the car's motions effectively. Tinkercad 3D will be used to produce a virtual automobile model, and the design will be laser-cut using a laser cutter. The project will take some time and work, but we are convinced that the end result will be a fun and practical addition to the class. We'll need an Arduino board, a motor, IR sensors, gears, wiring, and a laser cutter. Before we begin the project, we will need to plan our time and ensure we have everything we need. We want to work on this project for the semester and present it as a group at the conclusion.
-<center>
-
-|Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|40|30|1|2|3|4|5|6|
-|41|7|8|9|10|11|12|13|
-|42|14|15|16|17|18|19|20|
-|43|21|22|23|24|25|26|27|
-|44|28|29|30|31|1|2|3|
-
-</center>
+<div align="center">
+#Schedule
+|Sun  | Mon | Tue | Wed |Thu|Fri| Sat|
+|-----|:---:|:----:|:----:|:----:|:----:|----:|
+|1|2|3|4|5|6|7|
+|8|9|10|11|12|13|14|
+|15|16|17|18|19|20|21|
+|22|23|24|25|26|27|28|
+|29|30|31|
+</div>
 
 
